@@ -18,7 +18,7 @@ export default function Home() {
             transition={{ duration: 0.8 }}
             className="text-4xl md:text-6xl font-semibold leading-tight text-white"
           >
-            Hi, I’m <span className="text-emerald-400">Your Name</span>
+            Hi, I’m <span className="text-emerald-400">Jayvee</span>
             <br /> a Front‑End Developer
           </motion.h1>
           <motion.p
